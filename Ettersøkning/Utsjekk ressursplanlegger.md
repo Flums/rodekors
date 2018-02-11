@@ -50,7 +50,7 @@ Utsjekken skal verifisere at deltaker har de nødvendige kunnskaper, ferdigheter
 * Kan lage en backup-fil i Garmin Basecamp og eksportere den til Dropbox, og kjenner til begrensningene med en slik fil.
 * Behersker de viktigste verktøyene i Garmin Basecamp (panorér, zoom, linjal, opprett veipunkt, tegne spor).
 * Kan veksle mellom forskjellige installerte kart som f. eks. Garmin og Frikart topokart.
-* Kan endre på en inntegnet søksteig for å justere på begrensningene (sett inn, flytt og slett veipunkt, og del opp spor).
+* Kan endre på en inntegnet søksteig for å justere på begrensningene (sett inn, flytt og slett veipunkt, og del opp spor). Hvordan?
 * Vet hvordan å finne arealet på en inntegnet søksteig, og forstår hvorfor dette er nyttig informasjon.
 * Kan overføre søksteiger og veipunkter fra Basecamp til en GPS.
 * Kan eksportere søksteiger, veipunkter og sporlogg i GPX-format til Dropbox og til en USB minnepinne i riktig mappestruktur (etterretning, teiger, sporlogg).
@@ -65,9 +65,8 @@ Utsjekken skal verifisere at deltaker har de nødvendige kunnskaper, ferdigheter
 * Kan endre farge på oppdrag og sporlogg, enten enkeltvis eller i bulk.
 * Kan finne UTM til en oppgitt gateadresse både ved hjelp av Frikart veikart (kun PC, ikke Mac?), og Gule Sider.
 * Kan legge inn et veipunkt når posisjonen i UTM oppgis muntlig, og er kjent med hvorfor man bør bruke f. eks. Notepad for å klippe og lime inn den komplette posisjonen i Basecamp heller enn å taste den inn direkte.
-* Kjenner til og kan bruke relevante on-line ressurser (Gule Sider kart og flyfoto, Google Maps, satellittbilder, UMS, osv).
+* Kjenner til og kan bruke relevante on-line ressurser (Gule Sider kart og flyfoto, Google Maps, satellittbilder, UMS, sollopp- og nedgang på timeanddate.com)
 * Kan sende ut tekstmeldinger via UMS.
-* Kan finne tider for soloppgang og -nedgang ved hjelp av en GPS, og on-line.
 
 ### Søksteknisk
 * Vet omtrentlig arealet på en sirkel med radius på 300 m, og kan konvertere mellom kvadratmeter og kvadratkilometer.
